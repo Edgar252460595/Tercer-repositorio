@@ -1,0 +1,26 @@
+[33mcommit c433e910e44594f5deba065e57e42d70e553e20a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Edgar252460595 <edgar.hernandez3534@gmail.com>
+Date:   Sun May 26 00:39:25 2024 -0500
+
+    new modifications in files
+
+[33mcommit 49ca99ea3cb993f9c966e4b4944891cd279ecce7[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c5ee0e1 5236318
+Author: Edgar252460595 <edgar.hernandez3534@gmail.com>
+Date:   Sat May 25 19:54:54 2024 -0500
+
+    Merge pull request #1 from Edgar252460595/feature1
+    
+    add index js
+
+[33mcommit 52363187ab4860737929eb91e0fa74b70b9a97ca[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Edgar252460595 <edgar.hernandez3534@gmail.com>
+Date:   Sat May 25 19:46:17 2024 -0500
+
+    add index js
+
+[33mcommit c5ee0e177ae7331e8720570c41df940c1d001515[m
+Author: Edgar252460595 <edgar.hernandez3534@gmail.com>
+Date:   Sat May 25 19:33:01 2024 -0500
+
+    Initial commit
